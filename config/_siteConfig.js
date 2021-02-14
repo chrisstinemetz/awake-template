@@ -74,7 +74,8 @@ export default {
     mailchimp: {
       on: true,
       formAction:
-        'https://danielkelly.us3.list-manage.com/subscribe/post?u=d3c2e762b66a2353d0bc29bf3&amp;id=2abeaa06e0'
+        'https://gmail.us1.list-manage.com/subscribe/post?u=d2d6dee3c1b412ea1c2613676&amp;id=bfdbdc3ba4'
+      // 'https://danielkelly.us3.list-manage.com/subscribe/post?u=d3c2e762b66a2353d0bc29bf3&amp;id=2abeaa06e0'
     },
     custom: {
       on: false,
@@ -105,3 +106,5 @@ export default {
 }
 
 export const CMS = theCMS
+
+
